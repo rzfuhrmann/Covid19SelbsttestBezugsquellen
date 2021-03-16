@@ -17,12 +17,31 @@ Es fehlt etwas/hat sich was verändert? Gern per E-Mail an [selbsttest-bezugsque
 
 | Shop | Kosten | Packungsgröße | Verfügbarkeit | Zuletzt geprüft | Link |
 |------|------|------|------|------|------|
-| DocCheckShop | 178,38€ (20er-Set) | 20, 60, 120, 960 Stück | Ausverkauft | 2021-03-16 13:00 | [https://www.doccheckshop.de/labor/tests/coronavirus-schnelltests/12087/siemens-clinitest-rapid-covid-19-antigen-test]() |
+| DocCheckShop | 178,38€ (20er-Set) | 20, 60, 120, 960 Stück | Ausverkauft | 2021-03-16 13:00 | [https://www.doccheckshop.de/labor/tests/coronavirus-schnelltests/12087/siemens-clinitest-rapid-covid-19-antigen-test](https://www.doccheckshop.de/labor/tests/coronavirus-schnelltests/12087/siemens-clinitest-rapid-covid-19-antigen-test) |
 
 ## Rapid SARS-CoV-2 Antigen Test Card
+| <!-- -->               | <!-- -->                                     |
+|------------------------|----------------------------------------------|
+| __Hersteller__         | Xiamen Boson Biotech Co., Ltd                       |
+| __Antragsteller__      | Technomed Service GmbH |
+| __Aktenzeichen BfArM__ | 5640-S-007/21                                |
+| __Testart__            | :question:          |
 
+| Shop | Kosten | Packungsgröße | Verfügbarkeit | Zuletzt geprüft | Link |
+|------|------|------|------|------|------|
+|  |  |  |  |  |  |
 
 ## LYHER® Covid-19 Antigen Schnelltest (Nasal)
+| <!-- -->               | <!-- -->                                     |
+|------------------------|----------------------------------------------|
+| __Hersteller__         | Hangzhou Laihe Biotech Ltd., Co.             |
+| __Antragsteller__      | Lissner Qi GmbH |
+| __Aktenzeichen BfArM__ | 5640-S-009/21                                |
+| __Testart__            | :question:          |
+
+| Shop | Kosten | Packungsgröße | Verfügbarkeit | Zuletzt geprüft | Link |
+|------|------|------|------|------|------|
+|  |  |  |  |  |  |
 
 ## SARS-CoV-2 Rapid Antigen Test
 
