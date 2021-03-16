@@ -1,5 +1,5 @@
 # Bezugsquellen von Antigen-Tests auf SARS-CoV-2
-Liste mit Bezugsquellen von Selbsttests (= Antigen-Tests zur Eigenanwendung durch Laien), die vom Bundesinstitut für Arzneimittel und Medizinprodukte (BfArM) (sonder-) zugelassen wurden ([Liste aller zugelassenen Antigen-Selbsttests hier](https://www.bfarm.de/DE/Medizinprodukte/Antigentests/_node.html)). 
+Liste mit Bezugsquellen von Selbsttests (= Antigen-Tests zur Eigenanwendung durch Laien), die vom Bundesinstitut für Arzneimittel und Medizinprodukte (BfArM) (sonder-)zugelassen wurden ([Liste aller zugelassenen Antigen-Selbsttests hier](https://www.bfarm.de/DE/Medizinprodukte/Antigentests/_node.html)). 
 
 Es fehlt etwas/hat sich was verändert (Achtung: Ja, das ist sehr wahrscheinlich!)? Gern per E-Mail an [selbsttest-bezugsquellen@rz-fuhrmann.de](mailto:selbsttest-bezugsquellen@rz-fuhrmann.de) oder - noch einfacher - als Pull-Request. Alle Beitragenden werden selbstverständlich (sofern gewünscht) als Beitragende aufgeführt. Dankesehr!
 
