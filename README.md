@@ -72,6 +72,7 @@ Generell gilt: Alle diese Werte basieren auf bestimmten Testarten.
 |------|------|------|------|------|------|
 | DocCheckShop | 178,38€ (20 Stk.) | 20, 60, 120 oder 960 Stk. | 🔴 | 2021-03-16 13:00 | [https://www.doccheckshop.de/labor/tests/coronavirus-schnelltests/12087/siemens-clinitest-rapid-covid-19-antigen-test](https://www.doccheckshop.de/labor/tests/coronavirus-schnelltests/12087/siemens-clinitest-rapid-covid-19-antigen-test) |
 | schubert24.de | 161,25€ (20 Stk.) | 20 Stk. | :warning: Nur für "Berechtigte" | 2021-03-16 16:00 | [https://www.schubert24.de/8104/clinitest-rapid-covid-19-ag-test](https://www.schubert24.de/8104/clinitest-rapid-covid-19-ag-test) |
+| medplus24.de | 189,95€ | 20 Stk. | 🔴 | 2021-03-16 17:00 | https://www.medplus24.de/Clinitest-Rapid-COVID-19-Antigen-Schnelltest |
 | ... | ... | ... | ... | ... | ... |
 
 ### Rapid SARS-CoV-2 Antigen Test Card
@@ -119,6 +120,11 @@ Generell gilt: Alle diese Werte basieren auf bestimmten Testarten.
 | __Spezifität__         | 99.1%  (lt. [Gebrauchsanweisung](https://assets.cwp.roche.com/f/94122/x/ee4f1e12e0/packungsbeilage_sars-cov-2_rapid_antigen_test_patienten-c-roche.pdf)) |
 | __Webseite__           | [Hersteller-Webseite](https://www.roche.de/patienten-betroffene/informationen-zu-krankheiten/covid-19/sars-cov-2-rapid-antigen-test-patienten-n/) <br>[Gebrauchsanweisung](https://assets.cwp.roche.com/f/94122/x/ee4f1e12e0/packungsbeilage_sars-cov-2_rapid_antigen_test_patienten-c-roche.pdf) |
 
+| Shop | Kosten | Packungsgröße | Verfügbarkeit | Zuletzt geprüft | Link |
+|------|------|------|------|------|------|
+| medplus24.de | 201,11€ | 25 Stk. | 🔴 | 2021-03-16 | https://www.medplus24.de/Roche-SARS-CoV-2-Antigen-Selbsttest |
+| ... | ... | ... | ... | ... | ... |
+
 ### AMP Rapid Test SARS-CoV-2 Ag
 | <!-- -->               | <!-- -->                                     |
 |------------------------|----------------------------------------------|
@@ -146,7 +152,7 @@ Generell gilt: Alle diese Werte basieren auf bestimmten Testarten.
 
 | Shop | Kosten | Packungsgröße | Verfügbarkeit | Zuletzt geprüft | Link |
 |------|------|------|------|------|------|
-| ... | ... | ... | ... | ... | ... |
+| medplus24.de | 9,50€ | 1 Stk. | 🔴 | 2021-03-16 | https://www.medplus24.de/Hotgen-Corona-Antigen-Selbsttest |
 | ... | ... | ... | ... | ... | ... |
 
 ### AESKU.RAPID SARS-CoV-2
