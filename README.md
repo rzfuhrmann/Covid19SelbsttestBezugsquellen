@@ -9,6 +9,7 @@ Es fehlt etwas/hat sich was verändert (Achtung: Ja, das ist sehr wahrscheinlich
 - [Erklärungen / Hinweise](#erklärungen-hinweise)
   - [Testarten](#testarten)
   - [Sensivität, Spezifität, Genauigkeit](#sensivität-spezifität-genauigkeit)
+  - [Legende](#legende)
 - [Liste](#liste)
   - [CLINITEST Rapid COVID-19 Self-Test](#clinitest-rapid-covid-19-self-test)
   - [Rapid SARS-CoV-2 Antigen Test Card](#rapid-sars-cov-2-antigen-test-card)
@@ -42,6 +43,14 @@ Generell gilt: Alle diese Werte basieren auf bestimmten Testarten.
 | __Spezifität__         | Anteil korrekter Ergebnisse bei negativ getesteten (= gesunden) Menschen. |
 | __Genauigkeit__        | :question: |
 
+### Legende
+
+| Symbol    | Erklärung                                    |
+|-----------|----------------------------------------------|
+| 🔴        | Nicht lieferbar/ausverkauft. |
+| 🟢        | Lieferbar |
+| :warning: | Lieferbar unter bestimmten Voraussetzungen (z.B. nur Ärzte und medizinisches Personal) |
+
 ## Liste
 | :warning: **Bitte beachten**: Diese Liste ist weder vollständig noch in irgendeiner Form aktuell und könnte falsche Informationen enthalten. Sie sollte daher nicht verwendet werden. <br>Keine Gewähr auf Aktualität, Richtigkeit und Vollständigkeit hier bereitgestellter Daten. |
 |----|
@@ -59,7 +68,8 @@ Generell gilt: Alle diese Werte basieren auf bestimmten Testarten.
 
 | Shop | Kosten | Packungsgröße | Verfügbarkeit | Zuletzt geprüft | Link |
 |------|------|------|------|------|------|
-| DocCheckShop | 178,38€ (20er-Set) | 20, 60, 120 oder 960 Stk. | Ausverkauft | 2021-03-16 13:00 | [https://www.doccheckshop.de/labor/tests/coronavirus-schnelltests/12087/siemens-clinitest-rapid-covid-19-antigen-test](https://www.doccheckshop.de/labor/tests/coronavirus-schnelltests/12087/siemens-clinitest-rapid-covid-19-antigen-test) |
+| DocCheckShop | 178,38€ (20 Stk.) | 20, 60, 120 oder 960 Stk. | 🔴 | 2021-03-16 13:00 | [https://www.doccheckshop.de/labor/tests/coronavirus-schnelltests/12087/siemens-clinitest-rapid-covid-19-antigen-test](https://www.doccheckshop.de/labor/tests/coronavirus-schnelltests/12087/siemens-clinitest-rapid-covid-19-antigen-test) |
+| schubert24.de | 161,25€ (20 Stk.) | 20 Stk. | :warning: Nur für "Berechtigte" | 2021-03-16 16:00 | [https://www.schubert24.de/8104/clinitest-rapid-covid-19-ag-test](https://www.schubert24.de/8104/clinitest-rapid-covid-19-ag-test) |
 | ... | ... | ... | ... | ... | ... |
 
 ### Rapid SARS-CoV-2 Antigen Test Card
@@ -75,8 +85,8 @@ Generell gilt: Alle diese Werte basieren auf bestimmten Testarten.
 
 | Shop | Kosten | Packungsgröße | Verfügbarkeit | Zuletzt geprüft | Link |
 |------|------|------|------|------|------|
-| DM Drogeriemarkt | 4,95€ (1 Stk.) | 1 Stk. | Ausverkauft  | 2021-03-16 13:00 | [https://www.dm.de/boson-corona-schnelltest-selbsttest-p6921963712141.html](https://www.dm.de/boson-corona-schnelltest-selbsttest-p6921963712141.html) |
-| Lidl Online-Shop | 21,99 € (5 Stk.) | 5 Stk. | Ausverkauft | 2021-03-16 13:00 | [https://www.lidl.de/de/5er-set-corona-sars-cov-2-antigenschnelltest-boson/p374797](https://www.lidl.de/de/5er-set-corona-sars-cov-2-antigenschnelltest-boson/p374797) |
+| DM Drogeriemarkt | 4,95€ (1 Stk.) | 1 Stk. | 🔴 | 2021-03-16 13:00 | [https://www.dm.de/boson-corona-schnelltest-selbsttest-p6921963712141.html](https://www.dm.de/boson-corona-schnelltest-selbsttest-p6921963712141.html) |
+| Lidl Online-Shop | 21,99 € (5 Stk.) | 5 Stk. | 🔴 | 2021-03-16 13:00 | [https://www.lidl.de/de/5er-set-corona-sars-cov-2-antigenschnelltest-boson/p374797](https://www.lidl.de/de/5er-set-corona-sars-cov-2-antigenschnelltest-boson/p374797) |
 | ... | ... | ... | ... | ... | ... |
 
 ### LYHER® Covid-19 Antigen Schnelltest (Nasal)
@@ -91,7 +101,7 @@ Generell gilt: Alle diese Werte basieren auf bestimmten Testarten.
 
 | Shop | Kosten | Packungsgröße | Verfügbarkeit | Zuletzt geprüft | Link |
 |------|------|------|------|------|------|
-| DM Drogeriemarkt | 4,95€ (1 Stk.) | 1 Stk. | Lieferbar | 2021-03-16 14:30 | [https://www.dm.de/lyher-corona-schnelltest-selbsttest-p6972412610280.html](https://www.dm.de/lyher-corona-schnelltest-selbsttest-p6972412610280.html) |
+| DM Drogeriemarkt | 4,95€ (1 Stk.) | 1 Stk. | 🟢 | 2021-03-16 14:30 | [https://www.dm.de/lyher-corona-schnelltest-selbsttest-p6972412610280.html](https://www.dm.de/lyher-corona-schnelltest-selbsttest-p6972412610280.html) |
 | ... | ... | ... | ... | ... | ... |
 
 ### SARS-CoV-2 Rapid Antigen Test
@@ -196,7 +206,7 @@ Generell gilt: Alle diese Werte basieren auf bestimmten Testarten.
 
 | Shop | Kosten | Packungsgröße | Verfügbarkeit | Zuletzt geprüft | Link |
 |------|------|------|------|------|------|
-| mpbio.com (Hersteller) | 150,00€ | 20 Stk. | Lieferbar  | 2021-03-16 13:00 | [https://www.mpbio.com/eu/covid-19-antigen-rapid-test-20-tests-per-kit](https://www.mpbio.com/eu/covid-19-antigen-rapid-test-20-tests-per-kit) |
+| mpbio.com (Hersteller) | 150,00€ | 20 Stk. | 🟢 | 2021-03-16 13:00 | [https://www.mpbio.com/eu/covid-19-antigen-rapid-test-20-tests-per-kit](https://www.mpbio.com/eu/covid-19-antigen-rapid-test-20-tests-per-kit) |
 | ... | ... | ... | ... | ... | ... |
 
 ### BIOSYNEX COVID-19 Ag BSS
