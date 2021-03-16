@@ -25,11 +25,11 @@ Es fehlt etwas/hat sich was verändert? Gern per E-Mail an [selbsttest-bezugsque
 | __Hersteller__         | Xiamen Boson Biotech Co., Ltd                       |
 | __Antragsteller__      | Technomed Service GmbH |
 | __Aktenzeichen BfArM__ | 5640-S-007/21                                |
-| __Testart__            | :question:          |
+| __Testart__            | Abstrich des vorderen Nasenbereichs          |
 
 | Shop | Kosten | Packungsgröße | Verfügbarkeit | Zuletzt geprüft | Link |
 |------|------|------|------|------|------|
-|  |  |  |  |  |  |
+| Drogeriemarkt DM | 4,95| (1 Stück) | 1 | Vergriffen  | 2021-03-16 13:00 | [https://www.dm.de/boson-corona-schnelltest-selbsttest-p6921963712141.html] |
 
 ## LYHER® Covid-19 Antigen Schnelltest (Nasal)
 | <!-- -->               | <!-- -->                                     |
