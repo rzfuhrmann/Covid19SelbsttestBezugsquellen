@@ -102,9 +102,9 @@ Generell gilt: Alle diese Werte basieren auf bestimmten Testarten.
 | __Antragsteller__      | MT Promedt Consulting GmbH |
 | __Aktenzeichen BfArM__ | 5640-S-025/21                                |
 | __Testart__            | Nasenabstrich          |
-| __Sensitivität__       | 83.3%                |
-| __Spezifität__         | 99.1% |
-| __Webseite__           | [https://www.roche.de/patienten-betroffene/informationen-zu-krankheiten/covid-19/sars-cov-2-rapid-antigen-test-patienten-n/](https://www.roche.de/patienten-betroffene/informationen-zu-krankheiten/covid-19/sars-cov-2-rapid-antigen-test-patienten-n/) (Hersteller-Webseite) <br>[https://assets.cwp.roche.com/f/94122/x/ee4f1e12e0/packungsbeilage_sars-cov-2_rapid_antigen_test_patienten-c-roche.pdf](https://assets.cwp.roche.com/f/94122/x/ee4f1e12e0/packungsbeilage_sars-cov-2_rapid_antigen_test_patienten-c-roche.pdf) (Beipackzettel) |
+| __Sensitivität__       | 83.3% (lt. [Gebrauchsanweisung](https://assets.cwp.roche.com/f/94122/x/ee4f1e12e0/packungsbeilage_sars-cov-2_rapid_antigen_test_patienten-c-roche.pdf))                |
+| __Spezifität__         | 99.1%  (lt. [Gebrauchsanweisung](https://assets.cwp.roche.com/f/94122/x/ee4f1e12e0/packungsbeilage_sars-cov-2_rapid_antigen_test_patienten-c-roche.pdf)) |
+| __Webseite__           | [Hersteller-Webseite](https://www.roche.de/patienten-betroffene/informationen-zu-krankheiten/covid-19/sars-cov-2-rapid-antigen-test-patienten-n/) <br>[Gebrauchsanweisung](https://assets.cwp.roche.com/f/94122/x/ee4f1e12e0/packungsbeilage_sars-cov-2_rapid_antigen_test_patienten-c-roche.pdf) |
 
 ### AMP Rapid Test SARS-CoV-2 Ag
 
