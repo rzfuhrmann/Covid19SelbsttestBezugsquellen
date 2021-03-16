@@ -46,10 +46,11 @@ Generell gilt: Alle diese Werte basieren auf bestimmten Testarten.
 
 ### Legende
 
-| Symbol    | Erklärung                                    |
-|-----------|----------------------------------------------|
-| 🔴        | Nicht lieferbar/ausverkauft. |
-| 🟢        | Lieferbar |
+| Symbol    | Erklärung                                     |
+|-----------|-----------------------------------------------|
+| 🔴        | Nicht verfügbar/ausverkauft.                  |
+| 🟠        | Begrenzte Verfügbarkeit / lange Lieferzeit    |
+| 🟢        | Lieferbar/Verfügbar                           |
 | :warning: | Lieferbar unter bestimmten Voraussetzungen (z.B. nur Ärzte und medizinisches Personal) |
 
 ## Liste
@@ -82,12 +83,13 @@ Generell gilt: Alle diese Werte basieren auf bestimmten Testarten.
 | __Testart__            | Abstrich des vorderen Nasenbereichs          |
 | __Sensitivität__       | 96,19% (lt. [dm.de](https://www.dm.de/boson-corona-schnelltest-selbsttest-p6921963712141.html))                |
 | __Spezifität__         | 99,20%  (lt. [dm.de](https://www.dm.de/boson-corona-schnelltest-selbsttest-p6921963712141.html)) |
-| __Webseite__           | [dein-corona-selbsttest.de](https://dein-corona-selbsttest.de/) (Hersteller-Webseite)<br>[Datenblatt](https://admin.dein-corona-selbsttest.de/media/pdf/30/9e/40/technomed_covid-19_ag_schnelltest_boson_datenblatt_27022021_de.pdf)<br>[Gebrauchsanweisung](https://admin.dein-corona-selbsttest.de/media/pdf/89/de/cb/20210304-IFU-BfArM_DE_final.pdf) |
+| __Webseite__           | [dein-corona-selbsttest.de](https://dein-corona-selbsttest.de/) (Hersteller-/Antragsteller-Webseite)<br>[Datenblatt](https://admin.dein-corona-selbsttest.de/media/pdf/30/9e/40/technomed_covid-19_ag_schnelltest_boson_datenblatt_27022021_de.pdf)<br>[Gebrauchsanweisung](https://admin.dein-corona-selbsttest.de/media/pdf/89/de/cb/20210304-IFU-BfArM_DE_final.pdf) |
 
 | Shop | Kosten | Packungsgröße | Verfügbarkeit | Zuletzt geprüft | Link |
 |------|------|------|------|------|------|
 | DM Drogeriemarkt | 4,95€ (1 Stk.) | 1 Stk. | 🔴 | 2021-03-16 13:00 | [https://www.dm.de/boson-corona-schnelltest-selbsttest-p6921963712141.html](https://www.dm.de/boson-corona-schnelltest-selbsttest-p6921963712141.html) |
 | Lidl Online-Shop | 21,99 € (5 Stk.) | 5 Stk. | 🔴 | 2021-03-16 13:00 | [https://www.lidl.de/de/5er-set-corona-sars-cov-2-antigenschnelltest-boson/p374797](https://www.lidl.de/de/5er-set-corona-sars-cov-2-antigenschnelltest-boson/p374797) |
+| dein-corona-selbsttest.de (Antragsteller) | 29,99€ (3 Stk.) | 3, 5, 10 oder 20 Stk. | 🟠 ab 24.04. | 2021-03-16 17:00 | [https://dein-corona-selbsttest.de/selbsttest-kaufen/](https://dein-corona-selbsttest.de/selbsttest-kaufen/) |
 | ... | ... | ... | ... | ... | ... |
 
 ### LYHER® Covid-19 Antigen Schnelltest (Nasal)
