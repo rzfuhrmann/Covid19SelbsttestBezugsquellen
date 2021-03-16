@@ -2,9 +2,9 @@
 
 Liste mit Bezugsquellen von Selbsttests (= Antigen-Tests zur Eigenanwendung durch Laien), die vom Bundesinstitut für Arzneimittel und Medizinprodukte (BfArM) (sonder-) zugelassen wurden ([Liste aller zugelassenen Antigen-Selbsttests hier](https://www.bfarm.de/DE/Medizinprodukte/Antigentests/_node.html)). 
 
-Es fehlt etwas/hat sich was verändert? Gern per E-Mail an [selbsttest-bezugsquellen@rz-fuhrmann.de](mailto:selbsttest-bezugsquellen@rz-fuhrmann.de) oder - noch einfacher! - als Pull-Request. Dankesehr!
+Es fehlt etwas/hat sich was verändert (Achtung: Ja, das ist sehr wahrscheinlich!)? Gern per E-Mail an [selbsttest-bezugsquellen@rz-fuhrmann.de](mailto:selbsttest-bezugsquellen@rz-fuhrmann.de) oder - noch einfacher - als Pull-Request. Dankesehr!
 
-| :warning: **Bitte beachten**: Keine Gewähr auf Aktualität, Richtigkeit und Vollständigkeit hier bereitgestellter Daten. |
+| :warning: **Bitte beachten**: Diese Liste ist weder vollständig noch in irgendeiner Form aktuell und sollte daher nicht verwendet werden. Keine Gewähr auf Aktualität, Richtigkeit und Vollständigkeit hier bereitgestellter Daten. |
 |----|
 
 ## CLINITEST Rapid COVID-19 Self-Test
@@ -30,11 +30,13 @@ Es fehlt etwas/hat sich was verändert? Gern per E-Mail an [selbsttest-bezugsque
 | __Aktenzeichen BfArM__ | 5640-S-007/21                                |
 | __Testart__            | Abstrich des vorderen Nasenbereichs          |
 | __Sensitivität__       | 96,19% (lt. [dm.de](https://www.dm.de/boson-corona-schnelltest-selbsttest-p6921963712141.html))                |
-| __Spezifität__         | 99,20%  (lt. [dm.de](https://www.dm.de/boson-corona-schnelltest-selbsttest-p6921963712141.html))|
+| __Spezifität__         | 99,20%  (lt. [dm.de](https://www.dm.de/boson-corona-schnelltest-selbsttest-p6921963712141.html)) |
+| __Webseite__           | [dein-corona-selbsttest.de](https://dein-corona-selbsttest.de/) (Hersteller-Webseite)<br>[Datenblatt](https://admin.dein-corona-selbsttest.de/media/pdf/30/9e/40/technomed_covid-19_ag_schnelltest_boson_datenblatt_27022021_de.pdf)<br>[Gebrauchsanweisung](https://admin.dein-corona-selbsttest.de/media/pdf/89/de/cb/20210304-IFU-BfArM_DE_final.pdf) |
 
 | Shop | Kosten | Packungsgröße | Verfügbarkeit | Zuletzt geprüft | Link |
 |------|------|------|------|------|------|
 | DM Drogeriemarkt | 4,95€ (1 Stück) | 1 Stück | Ausverkauft  | 2021-03-16 13:00 | [https://www.dm.de/boson-corona-schnelltest-selbsttest-p6921963712141.html](https://www.dm.de/boson-corona-schnelltest-selbsttest-p6921963712141.html) |
+| Lidl Online-Shop | 21,99 € (5 Stück) | 5 Stück | Ausverkauft | 2021-03-16 13:00 | [https://www.lidl.de/de/5er-set-corona-sars-cov-2-antigenschnelltest-boson/p374797](https://www.lidl.de/de/5er-set-corona-sars-cov-2-antigenschnelltest-boson/p374797) |
 | ... | ... | ... | ... | ... | ... |
 
 ## LYHER® Covid-19 Antigen Schnelltest (Nasal)
