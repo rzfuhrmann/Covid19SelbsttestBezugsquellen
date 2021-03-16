@@ -22,6 +22,7 @@ Es fehlt etwas/hat sich was verändert (Achtung: Ja, das ist sehr wahrscheinlich
   - [NanoRepro Antigen Schnelltest (Viromed)/NanoRepro Antigen Rapid Test (Viromed)](#nanorepro-antigen-schnelltest-viromednanorepro-antigen-rapid-test-viromed)
   - [Rapid SARS-CoV-2 Antigen Test Card](#rapid-sars-cov-2-antigen-test-card-1)
   - [BIOSYNEX COVID-19 Ag BSS](#biosynex-covid-19-ag-bss)
+  - [COVID-19 Antigen Rapid Test](#covid-19-antigen-rapid-test)
 
 <!-- /code_chunk_output -->
 
@@ -215,6 +216,21 @@ Generell gilt: Alle diese Werte basieren auf bestimmten Testarten.
 | __Hersteller__         | Biosynex Suisse SA                           |
 | __Antragsteller__      | Biosynex Suisse SA                           |
 | __Aktenzeichen BfArM__ | 5640-S-041/21                                |
+| __Testart__            | :question:          |
+| __Sensitivität__       | :question:                                   |
+| __Spezifität__         | :question:                                   |
+
+| Shop | Kosten | Packungsgröße | Verfügbarkeit | Zuletzt geprüft | Link |
+|------|------|------|------|------|------|
+| ... | ... | ... | ... | ... | ... |
+| ... | ... | ... | ... | ... | ... |
+
+### COVID-19 Antigen Rapid Test
+| <!-- -->               | <!-- -->                                     |
+|------------------------|----------------------------------------------|
+| __Hersteller__         | Hangzhou Clongene Biotech Co., Ltd.          |
+| __Antragsteller__      | Hangzhou Clongene Biotech Co., Ltd.          |
+| __Aktenzeichen BfArM__ | 5640-S-168/21                                |
 | __Testart__            | :question:          |
 | __Sensitivität__       | :question:                                   |
 | __Spezifität__         | :question:                                   |
