@@ -107,14 +107,81 @@ Generell gilt: Alle diese Werte basieren auf bestimmten Testarten.
 | __Webseite__           | [Hersteller-Webseite](https://www.roche.de/patienten-betroffene/informationen-zu-krankheiten/covid-19/sars-cov-2-rapid-antigen-test-patienten-n/) <br>[Gebrauchsanweisung](https://assets.cwp.roche.com/f/94122/x/ee4f1e12e0/packungsbeilage_sars-cov-2_rapid_antigen_test_patienten-c-roche.pdf) |
 
 ### AMP Rapid Test SARS-CoV-2 Ag
+| <!-- -->               | <!-- -->                                     |
+|------------------------|----------------------------------------------|
+| __Hersteller__         | AMEDA Labordiagnostik GmbH                   |
+| __Antragsteller__      | AMEDA Labordiagnostik GmbH                   |
+| __Aktenzeichen BfArM__ | 5640-S-062/21                                |
+| __Testart__            | :question:                                   |
+| __Sensitivität__       | :question:                                   |
+| __Spezifität__         | :question:                                   |
+
+| Shop | Kosten | Packungsgröße | Verfügbarkeit | Zuletzt geprüft | Link |
+|------|------|------|------|------|------|
+| ... | ... | ... | ... | ... | ... |
+| ... | ... | ... | ... | ... | ... |
 
 ### Coronavirus (2019-nCoV)-Antigentest
+| <!-- -->               | <!-- -->                                     |
+|------------------------|----------------------------------------------|
+| __Hersteller__         | Beijing Hotgen Biotech Co., Ltd              |
+| __Antragsteller__      | Beijing Hotgen Biotech Co., Ltd              |
+| __Aktenzeichen BfArM__ | 5640-S-057/21                                |
+| __Testart__            | :question:                                   |
+| __Sensitivität__       | :question:                                   |
+| __Spezifität__         | :question:                                   |
+
+| Shop | Kosten | Packungsgröße | Verfügbarkeit | Zuletzt geprüft | Link |
+|------|------|------|------|------|------|
+| ... | ... | ... | ... | ... | ... |
+| ... | ... | ... | ... | ... | ... |
 
 ### AESKU.RAPID SARS-CoV-2
+| <!-- -->               | <!-- -->                                     |
+|------------------------|----------------------------------------------|
+| __Hersteller__         | Aesku.Diagnostics GmbH & Co. KG              |
+| __Antragsteller__      | Aesku.Diagnostics GmbH & Co. KG              |
+| __Aktenzeichen BfArM__ | 5640-S-022/21                                |
+| __Testart__            | :question:                                   |
+| __Sensitivität__       | :question:                                   |
+| __Spezifität__         | :question:                                   |
+
+| Shop | Kosten | Packungsgröße | Verfügbarkeit | Zuletzt geprüft | Link |
+|------|------|------|------|------|------|
+| ... | ... | ... | ... | ... | ... |
+| ... | ... | ... | ... | ... | ... |
 
 ### AMP Rapid Test SARS-CoV-2 Ag Sputum
+| <!-- -->               | <!-- -->                                     |
+|------------------------|----------------------------------------------|
+| __Hersteller__         | AMEDA Labordiagnostik GmbH                   |
+| __Antragsteller__      | AMEDA Labordiagnostik GmbH                   |
+| __Aktenzeichen BfArM__ | 5640-S-061/21                                |
+| __Testart__            | Sputum                                       |
+| __Sensitivität__       | 92.2% (lt. [Gebrauchsanweisung](https://2e5ed920-9a4a-4c1f-b46e-954bdc354cc4.filesusr.com/ugd/3cc657_ffcfb438165d4d5e9fd3e8ecf5bf3c70.pdf)) |
+| __Spezifität__         | 100.0% (lt. [Gebrauchsanweisung](https://2e5ed920-9a4a-4c1f-b46e-954bdc354cc4.filesusr.com/ugd/3cc657_ffcfb438165d4d5e9fd3e8ecf5bf3c70.pdf)) |
+| __Genauigkeit__         | 96.7% (lt. [Gebrauchsanweisung](https://2e5ed920-9a4a-4c1f-b46e-954bdc354cc4.filesusr.com/ugd/3cc657_ffcfb438165d4d5e9fd3e8ecf5bf3c70.pdf)) |
+| __Webseite__           | [Hersteller-Webseite](https://de.amp-med.com/news-rapid-sars-cov-2-ag-sputumtest)<br>|[Produktbroschüre](https://2e5ed920-9a4a-4c1f-b46e-954bdc354cc4.filesusr.com/ugd/3cc657_7d0c5cbc2eee4924abf4bbe2698a4bdb.pdf)<br>[Gebrauchsanweisung](https://2e5ed920-9a4a-4c1f-b46e-954bdc354cc4.filesusr.com/ugd/3cc657_ffcfb438165d4d5e9fd3e8ecf5bf3c70.pdf)
+
+| Shop | Kosten | Packungsgröße | Verfügbarkeit | Zuletzt geprüft | Link |
+|------|------|------|------|------|------|
+| ... | ... | ... | ... | ... | ... |
+| ... | ... | ... | ... | ... | ... |
 
 ### NanoRepro Antigen Schnelltest (Viromed)/NanoRepro Antigen Rapid Test (Viromed)
+| <!-- -->               | <!-- -->                                     |
+|------------------------|----------------------------------------------|
+| __Hersteller__         | NanoRepro AG                                 |
+| __Antragsteller__      | NanoRepro AG                                 |
+| __Aktenzeichen BfArM__ | 5640-S-096/21                                |
+| __Testart__            | :question:                                   |
+| __Sensitivität__       | :question:                                   |
+| __Spezifität__         | :question:                                   |
+
+| Shop | Kosten | Packungsgröße | Verfügbarkeit | Zuletzt geprüft | Link |
+|------|------|------|------|------|------|
+| ... | ... | ... | ... | ... | ... |
+| ... | ... | ... | ... | ... | ... |
 
 ### Rapid SARS-CoV-2 Antigen Test Card
 | <!-- -->               | <!-- -->                                     |
