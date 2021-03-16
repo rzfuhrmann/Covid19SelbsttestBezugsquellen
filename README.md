@@ -19,7 +19,8 @@ Es fehlt etwas/hat sich was verändert? Gern per E-Mail an [selbsttest-bezugsque
 
 | Shop | Kosten | Packungsgröße | Verfügbarkeit | Zuletzt geprüft | Link |
 |------|------|------|------|------|------|
-| DocCheckShop | 178,38€ (20er-Set) | 20, 60, 120, 960 Stück | Ausverkauft | 2021-03-16 13:00 | [https://www.doccheckshop.de/labor/tests/coronavirus-schnelltests/12087/siemens-clinitest-rapid-covid-19-antigen-test](https://www.doccheckshop.de/labor/tests/coronavirus-schnelltests/12087/siemens-clinitest-rapid-covid-19-antigen-test) |
+| DocCheckShop | 178,38€ (20er-Set) | 20, 60, 120 oder 960 Stück | Ausverkauft | 2021-03-16 13:00 | [https://www.doccheckshop.de/labor/tests/coronavirus-schnelltests/12087/siemens-clinitest-rapid-covid-19-antigen-test](https://www.doccheckshop.de/labor/tests/coronavirus-schnelltests/12087/siemens-clinitest-rapid-covid-19-antigen-test) |
+| ... | ... | ... | ... | ... | ... |
 
 ## Rapid SARS-CoV-2 Antigen Test Card
 | <!-- -->               | <!-- -->                                     |
@@ -34,6 +35,7 @@ Es fehlt etwas/hat sich was verändert? Gern per E-Mail an [selbsttest-bezugsque
 | Shop | Kosten | Packungsgröße | Verfügbarkeit | Zuletzt geprüft | Link |
 |------|------|------|------|------|------|
 | DM Drogeriemarkt | 4,95€ (1 Stück) | 1 Stück | Ausverkauft  | 2021-03-16 13:00 | [https://www.dm.de/boson-corona-schnelltest-selbsttest-p6921963712141.html](https://www.dm.de/boson-corona-schnelltest-selbsttest-p6921963712141.html) |
+| ... | ... | ... | ... | ... | ... |
 
 ## LYHER® Covid-19 Antigen Schnelltest (Nasal)
 | <!-- -->               | <!-- -->                                     |
@@ -47,7 +49,7 @@ Es fehlt etwas/hat sich was verändert? Gern per E-Mail an [selbsttest-bezugsque
 
 | Shop | Kosten | Packungsgröße | Verfügbarkeit | Zuletzt geprüft | Link |
 |------|------|------|------|------|------|
-|  |  |  |  |  |  |
+| ... | ... | ... | ... | ... | ... |
 
 ## SARS-CoV-2 Rapid Antigen Test
 
@@ -62,5 +64,32 @@ Es fehlt etwas/hat sich was verändert? Gern per E-Mail an [selbsttest-bezugsque
 ## NanoRepro Antigen Schnelltest (Viromed)/NanoRepro Antigen Rapid Test (Viromed)
 
 ## Rapid SARS-CoV-2 Antigen Test Card
+| <!-- -->               | <!-- -->                                     |
+|------------------------|----------------------------------------------|
+| __Hersteller__         | MP Biomedicals Germany GmbH                  |
+| __Antragsteller__      | MP Biomedicals Germany GmbH                  |
+| __Aktenzeichen BfArM__ | 5640-S-076/21                                |
+| __Testart__            | Nasenabstrich, Nasopharyngeal-Abstrich oder Oropharyngeal-Abstrich |
+| __Sensitivität__       | 96,49% (lt. [mpbio.com](https://www.mpbio.com/eu/covid-19-antigen-rapid-test-20-tests-per-kit)) |
+| __Spezifität__         | 99,07% (lt. [mpbio.com](https://www.mpbio.com/eu/covid-19-antigen-rapid-test-20-tests-per-kit)) |
+| __Webseite__           | [Produktseite auf mpbio.com](https://www.mpbio.com/eu/covid-19-antigen-rapid-test-20-tests-per-kit) <br>[Datenblatt auf mpbio.com](https://media.mpbio.com/document/file/manual/dest/c/o/v/i/d/COVID19_antigen_kit_07AG6020B-009-03-12-DE.pdf) |
+
+| Shop | Kosten | Packungsgröße | Verfügbarkeit | Zuletzt geprüft | Link |
+|------|------|------|------|------|------|
+| mpbio.com (Hersteller) | 150,00€ | 20 Stück | Lieferbar  | 2021-03-16 13:00 | [https://www.mpbio.com/eu/covid-19-antigen-rapid-test-20-tests-per-kit](https://www.mpbio.com/eu/covid-19-antigen-rapid-test-20-tests-per-kit) |
+| ... | ... | ... | ... | ... | ... |
 
 ## BIOSYNEX COVID-19 Ag BSS
+| <!-- -->               | <!-- -->                                     |
+|------------------------|----------------------------------------------|
+| __Hersteller__         | Biosynex Suisse SA                           |
+| __Antragsteller__      | Biosynex Suisse SA                           |
+| __Aktenzeichen BfArM__ | 5640-S-041/21                                |
+| __Testart__            | :question:          |
+| __Sensitivität__       | :question:                                   |
+| __Spezifität__         | :question:                                   |
+
+| Shop | Kosten | Packungsgröße | Verfügbarkeit | Zuletzt geprüft | Link |
+|------|------|------|------|------|------|
+| ... | ... | ... | ... | ... | ... |
+| ... | ... | ... | ... | ... | ... |
