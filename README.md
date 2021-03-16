@@ -13,7 +13,9 @@ Es fehlt etwas/hat sich was verändert? Gern per E-Mail an [selbsttest-bezugsque
 | __Hersteller__         | Healgen Scientific LLC                       |
 | __Antragsteller__      | Siemens Healthcare Diagnostics Products GmbH |
 | __Aktenzeichen BfArM__ | 5640-S-004/21                                |
-| __Testart__            | Abstrich des vorderen Nasenbereichs          |
+| __Testart__            | Nasentupfer oder Nasopharyngealtupfer        |
+| __Sensitivität__       | Je nach Testart, siehe [Datenblatt](https://dccdn.de/www.doccheckshop.at/media/pdf/01/6b/61/101725-0-gebrauchsanweisung-siemens-clinitest-covid-19-antigen-schnelltest.pdf) |
+| __Spezifität__         | Je nach Testart, siehe [Datenblatt](https://dccdn.de/www.doccheckshop.at/media/pdf/01/6b/61/101725-0-gebrauchsanweisung-siemens-clinitest-covid-19-antigen-schnelltest.pdf) |
 
 | Shop | Kosten | Packungsgröße | Verfügbarkeit | Zuletzt geprüft | Link |
 |------|------|------|------|------|------|
@@ -26,10 +28,12 @@ Es fehlt etwas/hat sich was verändert? Gern per E-Mail an [selbsttest-bezugsque
 | __Antragsteller__      | Technomed Service GmbH |
 | __Aktenzeichen BfArM__ | 5640-S-007/21                                |
 | __Testart__            | Abstrich des vorderen Nasenbereichs          |
+| __Sensitivität__       | 96,19% (lt. [dm.de](https://www.dm.de/boson-corona-schnelltest-selbsttest-p6921963712141.html))                |
+| __Spezifität__         | 99,20%  (lt. [dm.de](https://www.dm.de/boson-corona-schnelltest-selbsttest-p6921963712141.html))|
 
 | Shop | Kosten | Packungsgröße | Verfügbarkeit | Zuletzt geprüft | Link |
 |------|------|------|------|------|------|
-| Drogeriemarkt DM | 4,95| (1 Stück) | 1 | Vergriffen  | 2021-03-16 13:00 | [https://www.dm.de/boson-corona-schnelltest-selbsttest-p6921963712141.html] |
+| DM Drogeriemarkt | 4,95€ (1 Stück) | 1 Stück | Ausverkauft  | 2021-03-16 13:00 | [https://www.dm.de/boson-corona-schnelltest-selbsttest-p6921963712141.html](https://www.dm.de/boson-corona-schnelltest-selbsttest-p6921963712141.html) |
 
 ## LYHER® Covid-19 Antigen Schnelltest (Nasal)
 | <!-- -->               | <!-- -->                                     |
@@ -38,6 +42,8 @@ Es fehlt etwas/hat sich was verändert? Gern per E-Mail an [selbsttest-bezugsque
 | __Antragsteller__      | Lissner Qi GmbH |
 | __Aktenzeichen BfArM__ | 5640-S-009/21                                |
 | __Testart__            | :question:          |
+| __Sensitivität__       | :question:                                   |
+| __Spezifität__         | :question:                                   |
 
 | Shop | Kosten | Packungsgröße | Verfügbarkeit | Zuletzt geprüft | Link |
 |------|------|------|------|------|------|
