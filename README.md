@@ -176,6 +176,7 @@ Generell gilt: Alle diese Werte basieren auf bestimmten Testarten.
 | Shop | Kosten | Packungsgröße | Verfügbarkeit | Zuletzt geprüft | Link |
 |------|------|------|------|------|------|
 | hygi.de | 42,95€ | 5 Stk. | 🔴 bald wieder verfügbar | 2021-03-16 | https://www.hygi.de/aesku-rapid-sars-cov-2-nasen-corona-schnelltest-1-packung-5-schnelltests-pd-119463 |
+| Aldi Süd (Offline) | 24,99€ | 5 Stk. | 🟠 je nach Filiale | 2021-03-16 | https://www.aldi-sued.de/de/p.aeskurapid-sars-cov--rapid-test-er-pack.490000000000710432.html |
 | ... | ... | ... | ... | ... | ... |
 
 ### AMP Rapid Test SARS-CoV-2 Ag Sputum
