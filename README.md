@@ -81,11 +81,11 @@ Generell gilt: Alle diese Werte basieren auf bestimmten Testarten.
 | <!-- -->               | <!-- -->                                     |
 |------------------------|----------------------------------------------|
 | __Hersteller__         | Hangzhou Laihe Biotech Ltd., Co.             |
-| __Antragsteller__      | Lissner Qi GmbH |
+| __Antragsteller__      | Lissner Qi GmbH                              |
 | __Aktenzeichen BfArM__ | 5640-S-009/21                                |
-| __Testart__            | :question:          |
-| __Sensitivität__       | :question:                                   |
-| __Spezifität__         | :question:                                   |
+| __Testart__            | Nasenabstrich                                |
+| __Sensitivität__       | 95,00% (lt. [dm.de](https://www.dm.de/lyher-corona-schnelltest-selbsttest-p6972412610280.html))                |
+| __Spezifität__         | 99,60%  (lt. [dm.de](https://www.dm.de/lyher-corona-schnelltest-selbsttest-p6972412610280.html)) |
 
 | Shop | Kosten | Packungsgröße | Verfügbarkeit | Zuletzt geprüft | Link |
 |------|------|------|------|------|------|
