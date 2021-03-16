@@ -31,7 +31,7 @@ Während dem Erstellen dieser Übersicht sind uns verschiedene Fachbegriffe aufg
 ### Testarten
 | <!-- -->               | <!-- -->                                     |
 |------------------------|----------------------------------------------|
-| __Nasenabstrich__             | :question:  |
+| __Nasenabstrich__             | Abstrich im vorderen Nasenbereich  |
 | __Nasopharyngeal-/Nasopharynx-Abstrich__   | Abstrich aus dem Nasen-Rachen-Raum. |
 | __Oropharyngeal-/Oropharynx-/Pharynx-Abstrich__    | Abstrich aus dem Rachen, vgl. [https://flexikon.doccheck.com/de/Rachenabstrich](https://flexikon.doccheck.com/de/Rachenabstrich) |
 
