@@ -54,6 +54,7 @@ Generell gilt: Alle diese Werte basieren auf bestimmten Testarten.
 | __Testart__            | Nasentupfer oder Nasopharyngealtupfer        |
 | __Sensitivität__       | Je nach Testart, siehe [Datenblatt](https://dccdn.de/www.doccheckshop.at/media/pdf/01/6b/61/101725-0-gebrauchsanweisung-siemens-clinitest-covid-19-antigen-schnelltest.pdf) |
 | __Spezifität__         | Je nach Testart, siehe [Datenblatt](https://dccdn.de/www.doccheckshop.at/media/pdf/01/6b/61/101725-0-gebrauchsanweisung-siemens-clinitest-covid-19-antigen-schnelltest.pdf) |
+| __Webseite__ | [www.clinitest.siemens-healthineers.com](https://www.clinitest.siemens-healthineers.com/) (Hersteller/Antragsteller)<br>- Kurzanleitung/Gebrauchsanweisung/FAQ unter "Downloads"|
 
 | Shop | Kosten | Packungsgröße | Verfügbarkeit | Zuletzt geprüft | Link |
 |------|------|------|------|------|------|
