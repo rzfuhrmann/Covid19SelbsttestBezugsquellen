@@ -38,8 +38,9 @@ Generell gilt: Alle diese Werte basieren auf bestimmten Testarten.
 
 | <!-- -->               | <!-- -->                                     |
 |------------------------|----------------------------------------------|
-| __Sensitivität__       | :question: |
-| __Spezifität__         | :question: |
+| __Sensitivität__       | Anteil korrekter Ergebnisse bei positiv getesteten (= erkrankten) Menschen. |
+| __Spezifität__         | Anteil korrekter Ergebnisse bei negativ getesteten (= gesunden) Menschen. |
+| __Genauigkeit__        | :question: |
 
 ## Liste
 | :warning: **Bitte beachten**: Diese Liste ist weder vollständig noch in irgendeiner Form aktuell und könnte falsche Informationen enthalten. Sie sollte daher nicht verwendet werden. <br>Keine Gewähr auf Aktualität, Richtigkeit und Vollständigkeit hier bereitgestellter Daten. |
