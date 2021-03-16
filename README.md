@@ -4,7 +4,7 @@ Liste mit Bezugsquellen von Selbsttests (= Antigen-Tests zur Eigenanwendung durc
 
 Es fehlt etwas/hat sich was verändert (Achtung: Ja, das ist sehr wahrscheinlich!)? Gern per E-Mail an [selbsttest-bezugsquellen@rz-fuhrmann.de](mailto:selbsttest-bezugsquellen@rz-fuhrmann.de) oder - noch einfacher - als Pull-Request. Dankesehr!
 
-| :warning: **Bitte beachten**: Diese Liste ist weder vollständig noch in irgendeiner Form aktuell und sollte daher nicht verwendet werden. Keine Gewähr auf Aktualität, Richtigkeit und Vollständigkeit hier bereitgestellter Daten. |
+| :warning: **Bitte beachten**: Diese Liste ist weder vollständig noch in irgendeiner Form aktuell und könnte falsche Informationen enthalten. Sie sollte daher nicht verwendet werden. <br>Keine Gewähr auf Aktualität, Richtigkeit und Vollständigkeit hier bereitgestellter Daten. |
 |----|
 
 ## CLINITEST Rapid COVID-19 Self-Test
