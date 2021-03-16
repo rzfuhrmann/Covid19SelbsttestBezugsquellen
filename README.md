@@ -95,6 +95,16 @@ Generell gilt: Alle diese Werte basieren auf bestimmten Testarten.
 
 ### SARS-CoV-2 Rapid Antigen Test
 
+| <!-- -->               | <!-- -->                                     |
+|------------------------|----------------------------------------------|
+| __Hersteller__         | Roche Diagnostics Deutschland GmbH                       |
+| __Antragsteller__      | :question: |
+| __Aktenzeichen BfArM__ | :question:                                |
+| __Testart__            | :question:          |
+| __Sensitivität__       | :question:                |
+| __Spezifität__         | :question: |
+| __Webseite__           | [https://www.roche.de/patienten-betroffene/informationen-zu-krankheiten/covid-19/sars-cov-2-rapid-antigen-test-patienten-n/](https://www.roche.de/patienten-betroffene/informationen-zu-krankheiten/covid-19/sars-cov-2-rapid-antigen-test-patienten-n/) (Hersteller-Webseite) |
+
 ### AMP Rapid Test SARS-CoV-2 Ag
 
 ### Coronavirus (2019-nCoV)-Antigentest
