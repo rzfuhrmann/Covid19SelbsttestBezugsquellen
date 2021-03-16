@@ -91,6 +91,7 @@ Generell gilt: Alle diese Werte basieren auf bestimmten Testarten.
 | DM Drogeriemarkt | 4,95€ (1 Stk.) | 1 Stk. | 🔴 | 2021-03-16 13:00 | [https://www.dm.de/boson-corona-schnelltest-selbsttest-p6921963712141.html](https://www.dm.de/boson-corona-schnelltest-selbsttest-p6921963712141.html) |
 | Lidl Online-Shop | 21,99 € (5 Stk.) | 5 Stk. | 🔴 | 2021-03-16 13:00 | [https://www.lidl.de/de/5er-set-corona-sars-cov-2-antigenschnelltest-boson/p374797](https://www.lidl.de/de/5er-set-corona-sars-cov-2-antigenschnelltest-boson/p374797) |
 | dein-corona-selbsttest.de (Antragsteller) | 29,99€ (3 Stk.) | 3, 5, 10 oder 20 Stk. | 🟠 ab 24.04. | 2021-03-16 17:00 | [https://dein-corona-selbsttest.de/selbsttest-kaufen/](https://dein-corona-selbsttest.de/selbsttest-kaufen/) |
+| aponeo.de | 199,00€ | 20 Stk. | 🟢 | 2021-03-16 | https://www.aponeo.de/08031526-rapid-sars-cov-2-antigen-test-card.html |
 | ... | ... | ... | ... | ... | ... |
 
 ### LYHER® Covid-19 Antigen Schnelltest (Nasal)
@@ -123,6 +124,7 @@ Generell gilt: Alle diese Werte basieren auf bestimmten Testarten.
 | Shop | Kosten | Packungsgröße | Verfügbarkeit | Zuletzt geprüft | Link |
 |------|------|------|------|------|------|
 | medplus24.de | 201,11€ | 25 Stk. | 🔴 | 2021-03-16 | https://www.medplus24.de/Roche-SARS-CoV-2-Antigen-Selbsttest |
+| aponeo.de | 239,00€ | 25 Stk. | 🟠 | 2021-03-16 | https://www.aponeo.de/08031524-sars-cov-2-rapid-antigen-test.html |
 | ... | ... | ... | ... | ... | ... |
 
 ### AMP Rapid Test SARS-CoV-2 Ag
@@ -153,6 +155,7 @@ Generell gilt: Alle diese Werte basieren auf bestimmten Testarten.
 | Shop | Kosten | Packungsgröße | Verfügbarkeit | Zuletzt geprüft | Link |
 |------|------|------|------|------|------|
 | medplus24.de | 9,50€ | 1 Stk. | 🔴 | 2021-03-16 | https://www.medplus24.de/Hotgen-Corona-Antigen-Selbsttest |
+| aponeo.de | 74,90€ (10 Stk.) | 10 oder 40 Stk. | 🔴 | 2021-03-16 | https://www.aponeo.de/08031521-novel-coronavirus-2019-ncov-antigen-test.html |
 | ... | ... | ... | ... | ... | ... |
 
 ### AESKU.RAPID SARS-CoV-2
