@@ -23,6 +23,9 @@ Es fehlt etwas/hat sich was verändert (Achtung: Das ist sehr wahrscheinlich!)? 
   - [Rapid SARS-CoV-2 Antigen Test Card](#rapid-sars-cov-2-antigen-test-card-1)
   - [BIOSYNEX COVID-19 Ag BSS](#biosynex-covid-19-ag-bss)
   - [COVID-19 Antigen Rapid Test](#covid-19-antigen-rapid-test)
+  - [Medicovid-AG SARS CoV-2 Antigen SELBSTTEST NASE](#medicovid-ag-sars-cov-2-antigen-selbsttest-nase)
+  - [COVID-19 Antigen Schnelltest (Spucktest)](#covid-19-antigen-schnelltest-spucktest)
+  - [COVID-19 Antigen-Schnelltest (Kolloidales Gold)](#covid-19-antigen-schnelltest-kolloidales-gold)
 
 <!-- /code_chunk_output -->
 
@@ -248,6 +251,51 @@ Generell gilt: Alle diese Werte basieren auf bestimmten Testarten.
 | __Hersteller__         | Hangzhou Clongene Biotech Co., Ltd.          |
 | __Antragsteller__      | Hangzhou Clongene Biotech Co., Ltd.          |
 | __Aktenzeichen BfArM__ | 5640-S-168/21                                |
+| __Testart__            | :question:          |
+| __Sensitivität__       | :question:                                   |
+| __Spezifität__         | :question:                                   |
+
+| Shop | Kosten | Packungsgröße | Verfügbarkeit | Zuletzt geprüft | Link |
+|------|------|------|------|------|------|
+| ... | ... | ... | ... | ... | ... |
+| ... | ... | ... | ... | ... | ... |
+
+### Medicovid-AG SARS CoV-2 Antigen SELBSTTEST NASE	
+| <!-- -->               | <!-- -->                                     |
+|------------------------|----------------------------------------------|
+| __Hersteller__         | MEDICE Arzneimittel Pütter GmbH & Co. KG     |
+| __Antragsteller__      | MEDICE Arzneimittel Pütter GmbH & Co. KG     |
+| __Aktenzeichen BfArM__ | 5640-S-128/21                                |
+| __Testart__            | :question:          |
+| __Sensitivität__       | :question:                                   |
+| __Spezifität__         | :question:                                   |
+
+| Shop | Kosten | Packungsgröße | Verfügbarkeit | Zuletzt geprüft | Link |
+|------|------|------|------|------|------|
+| ... | ... | ... | ... | ... | ... |
+| ... | ... | ... | ... | ... | ... |
+
+### COVID-19 Antigen Schnelltest (Spucktest)	
+| <!-- -->               | <!-- -->                                     |
+|------------------------|----------------------------------------------|
+| __Hersteller__         | amec GmbH                                    |
+| __Antragsteller__      | amec GmbH                                    |
+| __Aktenzeichen BfArM__ | 5640-S-116/21                                |
+| __Testart__            | :question:          |
+| __Sensitivität__       | :question:                                   |
+| __Spezifität__         | :question:                                   |
+
+| Shop | Kosten | Packungsgröße | Verfügbarkeit | Zuletzt geprüft | Link |
+|------|------|------|------|------|------|
+| ... | ... | ... | ... | ... | ... |
+| ... | ... | ... | ... | ... | ... |
+
+### COVID-19 Antigen-Schnelltest (Kolloidales Gold)	
+| <!-- -->               | <!-- -->                                     |
+|------------------------|----------------------------------------------|
+| __Hersteller__         | MR Sanicom GmbH                              |
+| __Antragsteller__      | MR Sanicom GmbH                              |
+| __Aktenzeichen BfArM__ | 5640-S-147/21                                |
 | __Testart__            | :question:          |
 | __Sensitivität__       | :question:                                   |
 | __Spezifität__         | :question:                                   |
