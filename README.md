@@ -3,6 +3,9 @@ Liste mit Bezugsquellen von Selbsttests (= Antigen-Tests zur Eigenanwendung durc
 
 Es fehlt etwas/hat sich was verändert (Achtung: Das ist sehr wahrscheinlich!)? Gern per E-Mail an [selbsttest-bezugsquellen@rz-fuhrmann.de](mailto:selbsttest-bezugsquellen@rz-fuhrmann.de) oder - noch einfacher - als Pull-Request. Alle Beitragenden werden selbstverständlich (sofern gewünscht) als Beitragende aufgeführt. Dankesehr!
 
+| :warning: *Gemeinsam sind wir stark* :warning:<br> Diese Liste ist nur dann hilfreich für alle, wenn sie regelmäßig geprüft und aktuell gehalten wird. Sollte Dir also etwas auffallen - egal, ob Fehler, veraltete Daten oder fehlende Shops -, dann weise uns gerne darauf hin oder nehme die Änderung direkt selbst vor.<br><br>Solltest Du über Fachwissen verfügen, um den Abschnitt [Erklärungen / Hinweise](#erklärungen-hinweise) oder die Übersichtstabellen zu ergänzen, melde Dich gerne bei uns. |
+|----|
+
 <!-- @import "[TOC]" {cmd="toc" depthFrom=2 depthTo=6 orderedList=false} -->
 <!-- code_chunk_output -->
 
