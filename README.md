@@ -286,9 +286,10 @@ Generell gilt: Alle diese Werte basieren auf bestimmten Testarten.
 | __Hersteller__         | amec GmbH                                    |
 | __Antragsteller__      | amec GmbH                                    |
 | __Aktenzeichen BfArM__ | 5640-S-116/21                                |
-| __Testart__            | :question:          |
-| __Sensitivität__       | :question:                                   |
-| __Spezifität__         | :question:                                   |
+| __Testart__            | Spucktest                                    |
+| __Sensitivität__       | 96,80% (lt. [Hersteller-Webseite](https://www.amec-gmbh.de/covid-19-schnelltest/))                                   |
+| __Spezifität__         | 99,6% (lt. [Hersteller-Webseite](https://www.amec-gmbh.de/covid-19-schnelltest/))                          
+| __Webseite__           | [Hersteller-Webseite](https://www.amec-gmbh.de/covid-19-schnelltest/)<br>[Anwendungsbeschreibung](https://www.amec-gmbh.de/wp-content/uploads/amec_Gebrauchsanweisung_Laie_17032021.pdf) |
 
 | Shop | Kosten | Packungsgröße | Verfügbarkeit | Zuletzt geprüft | Link |
 |------|------|------|------|------|------|
