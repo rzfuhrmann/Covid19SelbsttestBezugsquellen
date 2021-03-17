@@ -34,6 +34,8 @@ Während dem Erstellen dieser Übersicht sind uns verschiedene Fachbegriffe aufg
 ### Testarten
 | <!-- -->               | <!-- -->                                     |
 |------------------------|----------------------------------------------|
+| __Speicheltest__             | :question:  |
+| __Spucktest__             | :question:  |
 | __Nasenabstrich__             | Abstrich im vorderen Nasenbereich  |
 | __Nasopharyngeal-/Nasopharynx-Abstrich__   | Abstrich aus dem Nasen-Rachen-Raum. |
 | __Oropharyngeal-/Oropharynx-/Pharynx-Abstrich__    | Abstrich aus dem Rachen, vgl. [https://flexikon.doccheck.com/de/Rachenabstrich](https://flexikon.doccheck.com/de/Rachenabstrich) |
@@ -73,10 +75,10 @@ Generell gilt: Alle diese Werte basieren auf bestimmten Testarten.
 
 | Shop | Kosten | Packungsgröße | Verfügbarkeit | Zuletzt geprüft | Link |
 |------|------|------|------|------|------|
-| DocCheckShop | 178,38€ (20 Stk.) | 20, 60, 120 oder 960 Stk. | 🔴 | 2021-03-16 13:00 | [https://www.doccheckshop.de/labor/tests/coronavirus-schnelltests/12087/siemens-clinitest-rapid-covid-19-antigen-test](https://www.doccheckshop.de/labor/tests/coronavirus-schnelltests/12087/siemens-clinitest-rapid-covid-19-antigen-test) |
-| schubert24.de | 161,25€ (20 Stk.) | 20 Stk. | :warning: Nur für "Berechtigte" | 2021-03-16 16:00 | [https://www.schubert24.de/8104/clinitest-rapid-covid-19-ag-test](https://www.schubert24.de/8104/clinitest-rapid-covid-19-ag-test) |
-| medplus24.de | 189,95€ | 20 Stk. | 🔴 | 2021-03-16 17:00 | https://www.medplus24.de/Clinitest-Rapid-COVID-19-Antigen-Schnelltest |
-| hygi.de | 264,25€ | 25 Stk. | 🔴 bald wieder verfügbar | 2021-03-16 | https://www.hygi.de/clinitest-rapid-covid-19-antigen-corona-schnelltest-1-packung-25-schnelltests-pd-120355 |
+| DocCheckShop | 178,38€ (20 Stk.) | 20, 60, 120 oder 960 Stk. | 🔴 | 2021-03-17 22:00 | [https://www.doccheckshop.de/labor/tests/coronavirus-schnelltests/12087/siemens-clinitest-rapid-covid-19-antigen-test](https://www.doccheckshop.de/labor/tests/coronavirus-schnelltests/12087/siemens-clinitest-rapid-covid-19-antigen-test) |
+| schubert24.de | 161,25€ (20 Stk.) | 20 Stk. | :warning: Nur für "Berechtigte" | 2021-03-17 22:00 | [https://www.schubert24.de/8104/clinitest-rapid-covid-19-ag-test](https://www.schubert24.de/8104/clinitest-rapid-covid-19-ag-test) |
+| medplus24.de | 189,95€ | 20 Stk. | 🔴 | 2021-03-17 22:00 | https://www.medplus24.de/Clinitest-Rapid-COVID-19-Antigen-Schnelltest |
+| hygi.de | 264,25€ | 25 Stk. | 🔴 bald wieder verfügbar | 2021-03-17 22:00 | https://www.hygi.de/clinitest-rapid-covid-19-antigen-corona-schnelltest-1-packung-25-schnelltests-pd-120355 |
 | ... | ... | ... | ... | ... | ... |
 
 ### Rapid SARS-CoV-2 Antigen Test Card
@@ -92,11 +94,11 @@ Generell gilt: Alle diese Werte basieren auf bestimmten Testarten.
 
 | Shop | Kosten | Packungsgröße | Verfügbarkeit | Zuletzt geprüft | Link |
 |------|------|------|------|------|------|
-| DM Drogeriemarkt | 4,95€ (1 Stk.) | 1 Stk. | 🔴 | 2021-03-16 13:00 | [https://www.dm.de/boson-corona-schnelltest-selbsttest-p6921963712141.html](https://www.dm.de/boson-corona-schnelltest-selbsttest-p6921963712141.html) |
-| Lidl Online-Shop | 21,99 € (5 Stk.) | 5 Stk. | 🔴 | 2021-03-16 13:00 | [https://www.lidl.de/de/5er-set-corona-sars-cov-2-antigenschnelltest-boson/p374797](https://www.lidl.de/de/5er-set-corona-sars-cov-2-antigenschnelltest-boson/p374797) |
-| dein-corona-selbsttest.de (Antragsteller) | 29,99€ (3 Stk.) | 3, 5, 10 oder 20 Stk. | 🟠 ab 24.04. | 2021-03-16 17:00 | [https://dein-corona-selbsttest.de/selbsttest-kaufen/](https://dein-corona-selbsttest.de/selbsttest-kaufen/) |
-| aponeo.de | 199,00€ | 20 Stk. | 🟢 | 2021-03-16 | https://www.aponeo.de/08031526-rapid-sars-cov-2-antigen-test-card.html |
-| hygi.de | 8,50€ | 1 Stk. | 🟠 Auf Anfrage, KW 14 | 2021-03-16 | https://www.hygi.de/boson-antigen-corona-schnelltest-laien-test-1-packung-1-schnelltest-pd-119391 |
+| DM Drogeriemarkt | 4,95€ (1 Stk.) | 1 Stk. | 🔴 | 2021-03-17 22:00 | [https://www.dm.de/boson-corona-schnelltest-selbsttest-p6921963712141.html](https://www.dm.de/boson-corona-schnelltest-selbsttest-p6921963712141.html) |
+| Lidl Online-Shop | 21,99 € (5 Stk.) | 5 Stk. | 🔴 | 2021-03-17 22:00 | [https://www.lidl.de/de/5er-set-corona-sars-cov-2-antigenschnelltest-boson/p374797](https://www.lidl.de/de/5er-set-corona-sars-cov-2-antigenschnelltest-boson/p374797) |
+| dein-corona-selbsttest.de (Antragsteller) | 29,99€ (3 Stk.) | 3, 5, 10 oder 20 Stk. | 🟠 ab 24.04. | 2021-03-17 22:00 | [https://dein-corona-selbsttest.de/selbsttest-kaufen/](https://dein-corona-selbsttest.de/selbsttest-kaufen/) |
+| aponeo.de | 199,00€ | 20 Stk. | 🟢 | 2021-03-17 22:00 | https://www.aponeo.de/08031526-rapid-sars-cov-2-antigen-test-card.html |
+| hygi.de | 8,50€ | 1 Stk. | 🟠 Auf Anfrage, KW 14 | 2021-03-17 22:00 | https://www.hygi.de/boson-antigen-corona-schnelltest-laien-test-1-packung-1-schnelltest-pd-119391 |
 | ... | ... | ... | ... | ... | ... |
 
 ### LYHER® Covid-19 Antigen Schnelltest (Nasal)
@@ -111,8 +113,8 @@ Generell gilt: Alle diese Werte basieren auf bestimmten Testarten.
 
 | Shop | Kosten | Packungsgröße | Verfügbarkeit | Zuletzt geprüft | Link |
 |------|------|------|------|------|------|
-| DM Drogeriemarkt | 4,95€ (1 Stk.) | 1 Stk. | 🟢 | 2021-03-16 14:30 | [https://www.dm.de/lyher-corona-schnelltest-selbsttest-p6972412610280.html](https://www.dm.de/lyher-corona-schnelltest-selbsttest-p6972412610280.html) |
-| hygi.de | 8,95€ (1 Stk.) | 1 Stk. | 🟠 Auf Anfrage, KW 14 | 2021-03-16 21:15 | https://www.hygi.de/lyher-covid-19-antigen-corona-schnelltest-1-packung-1-schnelltest-pd-119447 |
+| DM Drogeriemarkt | 4,95€ (1 Stk.) | 1 Stk. | 🟢 | 2021-03-17 22:00 | [https://www.dm.de/lyher-corona-schnelltest-selbsttest-p6972412610280.html](https://www.dm.de/lyher-corona-schnelltest-selbsttest-p6972412610280.html) |
+| hygi.de | 8,95€ (1 Stk.) | 1 Stk. | 🟠 Auf Anfrage, KW 14 | 2021-03-17 22:00 | https://www.hygi.de/lyher-covid-19-antigen-corona-schnelltest-1-packung-1-schnelltest-pd-119447 |
 | ... | ... | ... | ... | ... | ... |
 
 ### SARS-CoV-2 Rapid Antigen Test
@@ -129,9 +131,9 @@ Generell gilt: Alle diese Werte basieren auf bestimmten Testarten.
 
 | Shop | Kosten | Packungsgröße | Verfügbarkeit | Zuletzt geprüft | Link |
 |------|------|------|------|------|------|
-| medplus24.de | 201,11€ | 25 Stk. | 🔴 | 2021-03-16 | https://www.medplus24.de/Roche-SARS-CoV-2-Antigen-Selbsttest |
-| aponeo.de | 239,00€ | 25 Stk. | 🟠 | 2021-03-16 | https://www.aponeo.de/08031524-sars-cov-2-rapid-antigen-test.html |
-| hygi.de | 218,50€ | 25 Stk. | 🔴 bald wieder verfügbar | 2021-03-16 | https://www.hygi.de/rapid-antigen-nasen-rachen-corona-schnelltest-1-packung-25-schnelltests-pd-119461 |
+| medplus24.de | 201,11€ | 25 Stk. | 🔴 | 2021-03-17 22:00 | https://www.medplus24.de/Roche-SARS-CoV-2-Antigen-Selbsttest |
+| aponeo.de | 239,00€ | 25 Stk. | 🟠 | 2021-03-17 22:00 | https://www.aponeo.de/08031524-sars-cov-2-rapid-antigen-test.html |
+| hygi.de | 218,50€ | 25 Stk. | 🔴 bald wieder verfügbar | 2021-03-17 22:00 | https://www.hygi.de/rapid-antigen-nasen-rachen-corona-schnelltest-1-packung-25-schnelltests-pd-119461 |
 | ... | ... | ... | ... | ... | ... |
 
 ### AMP Rapid Test SARS-CoV-2 Ag
@@ -146,7 +148,7 @@ Generell gilt: Alle diese Werte basieren auf bestimmten Testarten.
 
 | Shop | Kosten | Packungsgröße | Verfügbarkeit | Zuletzt geprüft | Link |
 |------|------|------|------|------|------|
-| hygi.de | 99,95€ | 10 Stk. | 🔴 bald wieder verfügbar | 2021-03-16 | https://www.hygi.de/amp-rapid-test-sars-cov-2-ag-nasen-und-rachen-corona-schnelltest-1-packung-10-schnelltests-pd-119462 |
+| hygi.de | 99,95€ | 10 Stk. | 🔴 bald wieder verfügbar | 2021-03-17 22:00 | https://www.hygi.de/amp-rapid-test-sars-cov-2-ag-nasen-und-rachen-corona-schnelltest-1-packung-10-schnelltests-pd-119462 |
 | ... | ... | ... | ... | ... | ... |
 
 ### Coronavirus (2019-nCoV)-Antigentest
@@ -161,9 +163,9 @@ Generell gilt: Alle diese Werte basieren auf bestimmten Testarten.
 
 | Shop | Kosten | Packungsgröße | Verfügbarkeit | Zuletzt geprüft | Link |
 |------|------|------|------|------|------|
-| medplus24.de | 9,50€ | 1 Stk. | 🔴 | 2021-03-16 | https://www.medplus24.de/Hotgen-Corona-Antigen-Selbsttest |
-| aponeo.de | 74,90€ (10 Stk.) | 10 oder 40 Stk. | 🔴 | 2021-03-16 | https://www.aponeo.de/08031521-novel-coronavirus-2019-ncov-antigen-test.html |
-| hygi.de | 8,95€ (1 Stk.) | 1 Stk. | 🟠 Auf Anfrage, KW 15 | 2021-03-16 | https://www.hygi.de/hotgen-novel-kolloidales-gold-rachen-nasen-corona-schnelltest-1-packung-1-schnelltest-pd-119464 |
+| medplus24.de | 9,50€ | 1 Stk. | 🔴 | 2021-03-17 22:00 | https://www.medplus24.de/Hotgen-Corona-Antigen-Selbsttest |
+| aponeo.de | 74,90€ (10 Stk.) | 10 oder 40 Stk. | 🔴 | 2021-03-17 22:00 | https://www.aponeo.de/08031521-novel-coronavirus-2019-ncov-antigen-test.html |
+| hygi.de | 8,95€ (1 Stk.) | 1 Stk. | 🟠 Auf Anfrage, KW 15 | 2021-03-17 22:00 | https://www.hygi.de/hotgen-novel-kolloidales-gold-rachen-nasen-corona-schnelltest-1-packung-1-schnelltest-pd-119464 |
 | ... | ... | ... | ... | ... | ... |
 
 ### AESKU.RAPID SARS-CoV-2
@@ -178,8 +180,8 @@ Generell gilt: Alle diese Werte basieren auf bestimmten Testarten.
 
 | Shop | Kosten | Packungsgröße | Verfügbarkeit | Zuletzt geprüft | Link |
 |------|------|------|------|------|------|
-| hygi.de | 42,95€ | 5 Stk. | 🔴 bald wieder verfügbar | 2021-03-16 | https://www.hygi.de/aesku-rapid-sars-cov-2-nasen-corona-schnelltest-1-packung-5-schnelltests-pd-119463 |
-| Aldi Süd (Offline) | 24,99€ | 5 Stk. | 🟠 je nach Filiale | 2021-03-16 | https://www.aldi-sued.de/de/p.aeskurapid-sars-cov--rapid-test-er-pack.490000000000710432.html |
+| hygi.de | 42,95€ | 5 Stk. | 🔴 bald wieder verfügbar | 2021-03-17 22:00 | https://www.hygi.de/aesku-rapid-sars-cov-2-nasen-corona-schnelltest-1-packung-5-schnelltests-pd-119463 |
+| Aldi Süd (Offline) | 24,99€ | 5 Stk. | 🟠 je nach Filiale | 2021-03-17 22:00 | https://www.aldi-sued.de/de/p.aeskurapid-sars-cov--rapid-test-er-pack.490000000000710432.html |
 | ... | ... | ... | ... | ... | ... |
 
 ### AMP Rapid Test SARS-CoV-2 Ag Sputum
@@ -196,7 +198,7 @@ Generell gilt: Alle diese Werte basieren auf bestimmten Testarten.
 
 | Shop | Kosten | Packungsgröße | Verfügbarkeit | Zuletzt geprüft | Link |
 |------|------|------|------|------|------|
-| hygi.de | 99,95€ | 10 Stk. | 🔴 bald wieder verfügbar | 2021-03-16 | https://www.hygi.de/amp-rapid-sars-cov-2-ag-sputum-corona-schnelltest-1-packung-10-schnelltests-pd-119549 |
+| hygi.de | 99,95€ | 10 Stk. | 🔴 bald wieder verfügbar | 2021-03-17 22:00 | https://www.hygi.de/amp-rapid-sars-cov-2-ag-sputum-corona-schnelltest-1-packung-10-schnelltests-pd-119549 |
 | ... | ... | ... | ... | ... | ... |
 
 ### NanoRepro Antigen Schnelltest (Viromed)/NanoRepro Antigen Rapid Test (Viromed)
@@ -227,7 +229,7 @@ Generell gilt: Alle diese Werte basieren auf bestimmten Testarten.
 
 | Shop | Kosten | Packungsgröße | Verfügbarkeit | Zuletzt geprüft | Link |
 |------|------|------|------|------|------|
-| mpbio.com (Hersteller) | 150,00€ | 20 Stk. | 🟢 | 2021-03-16 13:00 | [https://www.mpbio.com/eu/covid-19-antigen-rapid-test-20-tests-per-kit](https://www.mpbio.com/eu/covid-19-antigen-rapid-test-20-tests-per-kit) |
+| mpbio.com (Hersteller) | 150,00€ | 20 Stk. | 🟢 | 2021-03-17 22:00 | [https://www.mpbio.com/eu/covid-19-antigen-rapid-test-20-tests-per-kit](https://www.mpbio.com/eu/covid-19-antigen-rapid-test-20-tests-per-kit) |
 | ... | ... | ... | ... | ... | ... |
 
 ### BIOSYNEX COVID-19 Ag BSS
@@ -296,11 +298,13 @@ Generell gilt: Alle diese Werte basieren auf bestimmten Testarten.
 | __Hersteller__         | MR Sanicom GmbH                              |
 | __Antragsteller__      | MR Sanicom GmbH                              |
 | __Aktenzeichen BfArM__ | 5640-S-147/21                                |
-| __Testart__            | :question:          |
-| __Sensitivität__       | :question:                                   |
-| __Spezifität__         | :question:                                   |
+| __Testart__            | Speicheltest                                 |
+| __Sensitivität__       | 96,10% (lt. [Gebrauchsanweisung](https://www.mr-sanicom.de/wp-content/uploads/2021/03/MRsanicom-Gebrauchsanweisung-kolloidales-gold.pdf)) |
+| __Spezifität__         | 99,00% (lt. [Gebrauchsanweisung](https://www.mr-sanicom.de/wp-content/uploads/2021/03/MRsanicom-Gebrauchsanweisung-kolloidales-gold.pdf)) |
+| __Genauigkeit__        | 98,50% (lt. [Gebrauchsanweisung](https://www.mr-sanicom.de/wp-content/uploads/2021/03/MRsanicom-Gebrauchsanweisung-kolloidales-gold.pdf)) |
+| __Webseite__           | [Hersteller-Webseite](https://www.mr-sanicom.de/mr-sanicom/)<br>[Gebrauchsanweisung](https://www.mr-sanicom.de/wp-content/uploads/2021/03/MRsanicom-Gebrauchsanweisung-kolloidales-gold.pdf) |
 
 | Shop | Kosten | Packungsgröße | Verfügbarkeit | Zuletzt geprüft | Link |
 |------|------|------|------|------|------|
-| ... | ... | ... | ... | ... | ... |
+| mr-sanicom.de (Hersteller) | 4,34€/Test | variabel | 🟠 Auf Anfrage | 2021-03-17 22:00 | https://www.mr-sanicom.de/mr-sanicom/ |
 | ... | ... | ... | ... | ... | ... |
