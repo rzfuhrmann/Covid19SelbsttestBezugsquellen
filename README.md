@@ -82,6 +82,8 @@ Generell gilt: Alle diese Werte basieren auf bestimmten Testarten.
 | schubert24.de | 161,25€ (20 Stk.) | 20 Stk. | :warning: Nur für "Berechtigte" | 2021-03-17 22:00 | [https://www.schubert24.de/8104/clinitest-rapid-covid-19-ag-test](https://www.schubert24.de/8104/clinitest-rapid-covid-19-ag-test) |
 | medplus24.de | 189,95€ | 20 Stk. | 🔴 | 2021-03-17 22:00 | https://www.medplus24.de/Clinitest-Rapid-COVID-19-Antigen-Schnelltest |
 | hygi.de | 264,25€ | 25 Stk. | 🔴 bald wieder verfügbar | 2021-03-17 22:00 | https://www.hygi.de/clinitest-rapid-covid-19-antigen-corona-schnelltest-1-packung-25-schnelltests-pd-120355 |
+| meddax24.de | 174,89€ | 20 Stk. | 🟠 10-14 Werktage | 2021-03-18 9:15 | https://meddax24.de/siemens-clinitest-rapid-covid-19-self-test-selbsttest-fuer-privatanwender?number=23281-01 |
+| vitalisto.de | 226,50€ | 20 Stk. | 🟠 5-7 Werktage | 2021-03-18 9:15 | https://www.vitalisto.de/clinitest-rapid-covid-19-antigentest-20-t |
 | ... | ... | ... | ... | ... | ... |
 
 ### Rapid SARS-CoV-2 Antigen Test Card
