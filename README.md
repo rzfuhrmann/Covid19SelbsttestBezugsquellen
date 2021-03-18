@@ -140,6 +140,7 @@ Generell gilt: Alle diese Werte basieren auf bestimmten Testarten.
 | medplus24.de | 201,11€ | 25 Stk. | 🔴 | 2021-03-17 22:00 | https://www.medplus24.de/Roche-SARS-CoV-2-Antigen-Selbsttest |
 | aponeo.de | 239,00€ | 25 Stk. | 🟠 | 2021-03-17 22:00 | https://www.aponeo.de/08031524-sars-cov-2-rapid-antigen-test.html |
 | hygi.de | 218,50€ | 25 Stk. | 🔴 bald wieder verfügbar | 2021-03-17 22:00 | https://www.hygi.de/rapid-antigen-nasen-rachen-corona-schnelltest-1-packung-25-schnelltests-pd-119461 |
+| praxisdienst.de | 176,72€ | 25 Stk. | 🟢 | 2021-03-18 20:30 | https://www.praxisdienst.de/Laborbedarf/Tests/Corona+Antigen+Schnelltests/Roche+SARS+CoV+2+Antigentest.html |
 | ... | ... | ... | ... | ... | ... |
 
 ### AMP Rapid Test SARS-CoV-2 Ag
