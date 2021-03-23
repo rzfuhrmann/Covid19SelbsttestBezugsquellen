@@ -29,6 +29,11 @@ Es fehlt etwas/hat sich was verändert (Achtung: Das ist sehr wahrscheinlich!)? 
   - [Medicovid-AG SARS CoV-2 Antigen SELBSTTEST NASE](#medicovid-ag-sars-cov-2-antigen-selbsttest-nase)
   - [COVID-19 Antigen Schnelltest (Spucktest)](#covid-19-antigen-schnelltest-spucktest)
   - [COVID-19 Antigen-Schnelltest (Kolloidales Gold)](#covid-19-antigen-schnelltest-kolloidales-gold)
+  - [ANBIO Corona Antigen Nasentupfer](#anbio-corona-antigen-nasentupfer)
+  - [Coronavirus (2019-nCoV)-Antigentest - Speichel](#coronavirus-2019-ncov-antigentest-speichel)
+  - [Wondfo 2019-nCoV Antigen Test (Lateral-Flow-Methode) Selbsttest](#wondfo-2019-ncov-antigen-test-lateral-flow-methode-selbsttest)
+  - [Sensitivo COVID-19 Antigen Test](#sensitivo-covid-19-antigen-test)
+  - [NASOCHECKcomfort SARS-CoV-2 Antigen-Schnelltest](#nasocheckcomfort-sars-cov-2-antigen-schnelltest)
 
 <!-- /code_chunk_output -->
 
@@ -315,4 +320,84 @@ Generell gilt: Alle diese Werte basieren auf bestimmten Testarten.
 | Shop | Kosten | Packungsgröße | Verfügbarkeit | Zuletzt geprüft | Link |
 |------|------|------|------|------|------|
 | mr-sanicom.de (Hersteller) | 4,34€/Test | variabel | 🟠 Auf Anfrage | 2021-03-17 22:00 | https://www.mr-sanicom.de/mr-sanicom/ |
+| ... | ... | ... | ... | ... | ... |
+
+### ANBIO Corona Antigen Nasentupfer
+| <!-- -->               | <!-- -->                                     |
+|------------------------|----------------------------------------------|
+| __Hersteller__         | Teda Laukoetter Technologie GmbH             |
+| __Antragsteller__      | Teda Laukoetter Technologie GmbH             |
+| __Aktenzeichen BfArM__ | 5640-S-079/21                                |
+| __Testart__            | :question:                                   |
+| __Sensitivität__       | :question:                                   |
+| __Spezifität__         | :question:                                   |
+| __Webseite__           | :question:                                   |
+
+| Shop | Kosten | Packungsgröße | Verfügbarkeit | Zuletzt geprüft | Link |
+|------|------|------|------|------|------|
+| ... | ... | ... | ... | ... | ... |
+| ... | ... | ... | ... | ... | ... |
+
+### Coronavirus (2019-nCoV)-Antigentest - Speichel
+| <!-- -->               | <!-- -->                                     |
+|------------------------|----------------------------------------------|
+| __Hersteller__         | Beijing Hotgen Biotech Co.,Ltd               |
+| __Antragsteller__      | Beijing Hotgen Biotech Co.,Ltd               |
+| __Aktenzeichen BfArM__ | 5640-S-080/21                                |
+| __Testart__            | :question:                                   |
+| __Sensitivität__       | :question:                                   |
+| __Spezifität__         | :question:                                   |
+| __Webseite__           | :question:                                   |
+
+| Shop | Kosten | Packungsgröße | Verfügbarkeit | Zuletzt geprüft | Link |
+|------|------|------|------|------|------|
+| ... | ... | ... | ... | ... | ... |
+| ... | ... | ... | ... | ... | ... |
+
+### Wondfo 2019-nCoV Antigen Test (Lateral-Flow-Methode) Selbsttest
+| <!-- -->               | <!-- -->                                     |
+|------------------------|----------------------------------------------|
+| __Hersteller__         | Haemato Pharm GmbH                           |
+| __Antragsteller__      | Haemato Pharm GmbH                           |
+| __Aktenzeichen BfArM__ | 5460-S-178/21                                |
+| __Testart__            | :question:                                   |
+| __Sensitivität__       | :question:                                   |
+| __Spezifität__         | :question:                                   |
+| __Webseite__           | :question:                                   |
+
+| Shop | Kosten | Packungsgröße | Verfügbarkeit | Zuletzt geprüft | Link |
+|------|------|------|------|------|------|
+| ... | ... | ... | ... | ... | ... |
+| ... | ... | ... | ... | ... | ... |
+
+### Sensitivo COVID-19 Antigen Test
+| <!-- -->               | <!-- -->                                     |
+|------------------------|----------------------------------------------|
+| __Hersteller__         | OFM GmbH                                     |
+| __Antragsteller__      | OFM GmbH                                     |
+| __Aktenzeichen BfArM__ | 5460-S-146/21                                |
+| __Testart__            | :question:                                   |
+| __Sensitivität__       | :question:                                   |
+| __Spezifität__         | :question:                                   |
+| __Webseite__           | :question:                                   |
+
+| Shop | Kosten | Packungsgröße | Verfügbarkeit | Zuletzt geprüft | Link |
+|------|------|------|------|------|------|
+| ... | ... | ... | ... | ... | ... |
+| ... | ... | ... | ... | ... | ... |
+
+### NASOCHECKcomfort SARS-CoV-2 Antigen-Schnelltest
+| <!-- -->               | <!-- -->                                     |
+|------------------------|----------------------------------------------|
+| __Hersteller__         | Beijing Lepu Medical Technology Co., Ltd.    |
+| __Antragsteller__      | Beijing Lepu Medical Technology Co., Ltd.    |
+| __Aktenzeichen BfArM__ | 5460-S-104/21                                |
+| __Testart__            | :question:                                   |
+| __Sensitivität__       | :question:                                   |
+| __Spezifität__         | :question:                                   |
+| __Webseite__           | :question:                                   |
+
+| Shop | Kosten | Packungsgröße | Verfügbarkeit | Zuletzt geprüft | Link |
+|------|------|------|------|------|------|
+| ... | ... | ... | ... | ... | ... |
 | ... | ... | ... | ... | ... | ... |
