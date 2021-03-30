@@ -104,8 +104,8 @@ Generell gilt: Alle diese Werte basieren auf bestimmten Testarten.
 
 | Shop | Kosten | Packungsgröße | Verfügbarkeit | Zuletzt geprüft | Link |
 |------|------|------|------|------|------|
-| DM Drogeriemarkt | 4,95€ (1 Stk.) | 1 Stk. | 🔴 | 2021-03-17 22:00 | [https://www.dm.de/boson-corona-schnelltest-selbsttest-p6921963712141.html](https://www.dm.de/boson-corona-schnelltest-selbsttest-p6921963712141.html) |
-| Lidl Online-Shop | 21,99 € (5 Stk.) | 5 Stk. | 🔴 | 2021-03-17 22:00 | [https://www.lidl.de/de/5er-set-corona-sars-cov-2-antigenschnelltest-boson/p374797](https://www.lidl.de/de/5er-set-corona-sars-cov-2-antigenschnelltest-boson/p374797) |
+| DM Drogeriemarkt | 4,95€ (1 Stk.) | 1 Stk. | 🟢 | 2021-03-30 18:00 | [https://www.dm.de/boson-corona-schnelltest-selbsttest-p6921963712141.html](https://www.dm.de/boson-corona-schnelltest-selbsttest-p6921963712141.html) |
+| Lidl Online-Shop | 21,99 € (5 Stk.) | 5 Stk. | 🔴 | 2021-03-30 18:00 | [https://www.lidl.de/de/5er-set-corona-sars-cov-2-antigenschnelltest-boson/p374797](https://www.lidl.de/de/5er-set-corona-sars-cov-2-antigenschnelltest-boson/p374797) |
 | dein-corona-selbsttest.de (Antragsteller) | 29,99€ (3 Stk.) | 3, 5, 10 oder 20 Stk. | 🟠 ab 24.04. | 2021-03-17 22:00 | [https://dein-corona-selbsttest.de/selbsttest-kaufen/](https://dein-corona-selbsttest.de/selbsttest-kaufen/) |
 | aponeo.de | 199,00€ | 20 Stk. | 🟢 | 2021-03-17 22:00 | https://www.aponeo.de/08031526-rapid-sars-cov-2-antigen-test-card.html |
 | hygi.de | 8,50€ | 1 Stk. | 🟠 Auf Anfrage, KW 14 | 2021-03-17 22:00 | https://www.hygi.de/boson-antigen-corona-schnelltest-laien-test-1-packung-1-schnelltest-pd-119391 |
