@@ -124,7 +124,7 @@ Generell gilt: Alle diese Werte basieren auf bestimmten Testarten.
 
 | Shop | Kosten | Packungsgröße | Verfügbarkeit | Zuletzt geprüft | Link |
 |------|------|------|------|------|------|
-| DM Drogeriemarkt | 4,95€ (1 Stk.) | 1 Stk. | 🟢 | 2021-03-17 22:00 | [https://www.dm.de/lyher-corona-schnelltest-selbsttest-p6972412610280.html](https://www.dm.de/lyher-corona-schnelltest-selbsttest-p6972412610280.html) |
+| DM Drogeriemarkt | 4,95€ (1 Stk.) | 1 Stk. | 🔴 | 2021-03-30 18:00 | [https://www.dm.de/lyher-corona-schnelltest-selbsttest-p6972412610280.html](https://www.dm.de/lyher-corona-schnelltest-selbsttest-p6972412610280.html) |
 | hygi.de | 8,95€ (1 Stk.) | 1 Stk. | 🟠 Auf Anfrage, KW 14 | 2021-03-17 22:00 | https://www.hygi.de/lyher-covid-19-antigen-corona-schnelltest-1-packung-1-schnelltest-pd-119447 |
 | ... | ... | ... | ... | ... | ... |
 
