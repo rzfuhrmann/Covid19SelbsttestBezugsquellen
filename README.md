@@ -102,15 +102,16 @@ Generell gilt: Alle diese Werte basieren auf bestimmten Testarten.
 | __Spezifität__         | 99,20%  (lt. [dm.de](https://www.dm.de/boson-corona-schnelltest-selbsttest-p6921963712141.html)) |
 | __Webseite__           | [dein-corona-selbsttest.de](https://dein-corona-selbsttest.de/) (Hersteller-/Antragsteller-Webseite)<br>[Datenblatt](https://admin.dein-corona-selbsttest.de/media/pdf/30/9e/40/technomed_covid-19_ag_schnelltest_boson_datenblatt_27022021_de.pdf)<br>[Gebrauchsanweisung](https://admin.dein-corona-selbsttest.de/media/pdf/89/de/cb/20210304-IFU-BfArM_DE_final.pdf) |
 
-| Shop | Kosten | Packungsgröße | Verfügbarkeit | Zuletzt geprüft | Link |
+| Shop | Kosten | Packungsgröße | Verfügbarkeit | Zuletzt geprüft | Bemerkung |
 |------|------|------|------|------|------|
-| DM Drogeriemarkt | 4,95€ (1 Stk.) | 1 Stk. | 🟢 | 2021-03-30 18:00 | [https://www.dm.de/boson-corona-schnelltest-selbsttest-p6921963712141.html](https://www.dm.de/boson-corona-schnelltest-selbsttest-p6921963712141.html) |
-| Lidl Online-Shop | 21,99 € (5 Stk.) | 5 Stk. | 🔴 | 2021-03-30 18:00 | [https://www.lidl.de/de/5er-set-corona-sars-cov-2-antigenschnelltest-boson/p374797](https://www.lidl.de/de/5er-set-corona-sars-cov-2-antigenschnelltest-boson/p374797) |
-| dein-corona-selbsttest.de (Antragsteller) | 29,99€ (3 Stk.) | 3, 5, 10 oder 20 Stk. | 🟠 ab 24.04. | 2021-03-17 22:00 | [https://dein-corona-selbsttest.de/selbsttest-kaufen/](https://dein-corona-selbsttest.de/selbsttest-kaufen/) |
-| aponeo.de | 199,00€ | 20 Stk. | 🟢 | 2021-03-17 22:00 | https://www.aponeo.de/08031526-rapid-sars-cov-2-antigen-test-card.html |
-| hygi.de | 8,50€ | 1 Stk. | 🟠 Auf Anfrage, KW 14 | 2021-03-17 22:00 | https://www.hygi.de/boson-antigen-corona-schnelltest-laien-test-1-packung-1-schnelltest-pd-119391 |
-| Drogeriemarkt Müller (Online/Offline) | :question: | :question: | 🔴 | 2021-03-17 22:45 | https://www.mueller.de/p/boson-antigen-covid-19-schnelltest-nasal-2715995/ |
-| ... | ... | ... | ... | ... | ... |
+| DM Drogeriemarkt, [dm.de](https://www.dm.de/boson-corona-schnelltest-selbsttest-p6921963712141.html) | 4,95€ (1 Stk.) | 1 Stk. | 🟢 | 2021-03-30 18:00 |  |
+| Lidl Online-Shop, [lidl.de](https://www.lidl.de/de/5er-set-corona-sars-cov-2-antigenschnelltest-boson/p374797) | 21,99 € (5 Stk.) | 5 Stk. | 🔴 | 2021-03-30 18:00 |  |
+| [dein-corona-selbsttest.de](https://dein-corona-selbsttest.de/selbsttest-kaufen/) (Antragsteller) | 29,99€ (3 Stk.) | 3, 5, 10 oder 20 Stk. | 🟠 ab 24.04. | 2021-03-17 22:00 |  |
+| [aponeo.de](https://www.aponeo.de/08031526-rapid-sars-cov-2-antigen-test-card.html) | 199,00€ | 20 Stk. | 🟢 | 2021-03-17 22:00 |  |
+| [hygi.de](https://www.hygi.de/boson-antigen-corona-schnelltest-laien-test-1-packung-1-schnelltest-pd-119391) | 8,50€ | 1 Stk. | 🟠 Auf Anfrage, KW 14 | 2021-03-17 22:00 |  |
+| Drogeriemarkt Müller (Offline), [mueller.de](https://www.mueller.de/p/boson-antigen-covid-19-schnelltest-nasal-2715995/) | :question: | :question: | 🔴 | 2021-03-17 22:45 |  |
+| [coronaversand.de](https://www.coronaversand.de/shop/Selbsttest-5er-Set-Boson-Biotech-Rapid-SARS-CoV-2-Antigen-Schnelltest-p344207300) | 22,90€ | 5 Stk. | 🟢 | 2021-04-20 | Mengenrabatt :question: |
+| [coronaversand.de](https://www.coronaversand.de/shop/Selbsttest-1er-Boson-Biotech-Rapid-SARS-CoV-2-Antigen-Schnelltest-p344271166) | 5,95€ | 1 Stk. | 🟢 | 2021-04-20 | Mengenrabatt :question: |
 
 ### LYHER® Covid-19 Antigen Schnelltest (Nasal)
 | <!-- -->               | <!-- -->                                     |
@@ -365,10 +366,10 @@ Generell gilt: Alle diese Werte basieren auf bestimmten Testarten.
 | __Spezifität__         | :question:                                   |
 | __Webseite__           | :question:                                   |
 
-| Shop | Kosten | Packungsgröße | Verfügbarkeit | Zuletzt geprüft | Link |
+| Shop | Kosten | Packungsgröße | Verfügbarkeit | Zuletzt geprüft | Bemerkung
 |------|------|------|------|------|------|
-| ... | ... | ... | ... | ... | ... |
-| ... | ... | ... | ... | ... | ... |
+| [coronaversand.de](https://www.coronaversand.de/shop/Corona-Antigentest-Wondfo-nCoV-Nasal-20er-Packung-p341743672) | 95,00€ | 20 Stk. | 🟢 | 2021-04-20 | Mengenrabatt ab 2x | 
+| ... | ... | ... | ... | ... | ... | 
 
 ### Sensitivo COVID-19 Antigen Test
 | <!-- -->               | <!-- -->                                     |
